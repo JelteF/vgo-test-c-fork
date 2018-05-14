@@ -1,3 +1,3 @@
 package c
 
-const Value = "wrong"
+const Value = "correct"
